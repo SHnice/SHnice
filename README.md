@@ -31,6 +31,3 @@
 </div>
 <br>
 
-#### Github Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=SHnice&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi"/></p>
