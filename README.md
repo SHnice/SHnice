@@ -17,11 +17,7 @@
 -   🌍 Checkout my [Portfolio](https://saddamhussain.vercel.app/).
 
 -   📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saddam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddam-hussain-3719b2248/) [![Mail Badge](https://img.shields.io/badge/-@Saddam-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sad_dam667) [![Mail Badge](https://img.shields.io/badge/-Saddam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arsal0344@gmail.com)
-<div align="center">
 
-<hr>
-<br><br>
-</div>
 <hr>
 <div align="center">
 <br>
